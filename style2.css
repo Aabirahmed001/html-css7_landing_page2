@@ -1,0 +1,87 @@
+/*notary website*/
+/*header start*/
+
+.header2{
+
+}
+.container4{
+	width: 60%;
+	margin: 0 auto;
+	overflow: hidden;
+
+}
+.logo2{
+	width: 20%;
+	float: left;
+	
+
+}
+.logo2 img{
+	width: 100%;
+
+}
+.menu2{
+	width: 70%;
+	float: right;
+}
+.menu2 ul{
+    
+}
+.menu2 ul li{
+	list-style: none;
+	float: left;
+}
+.menu2 ul li a{
+	text-decoration: none;
+	margin: 0 7px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #2B2B2B;
+}
+.menu2 ul li:last-child a{
+	margin-right: 0;
+}
+.menu2 ul li a:hover{
+	color: #B12C44;
+}
+/*header end*/
+
+/*banner start*/
+.banner2{
+	background-image: url(images/office.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top;
+	height: 500px;
+}
+.b_cont{
+	width: 50%;
+	padding: 55px 0;
+
+}
+.b_cont img{
+
+}
+.b_cont h1{
+	font-size: 54px;
+	color: white;
+	margin-bottom: 0;
+	
+}
+.b_cont p{
+	color: white;
+	margin-bottom: 15px;
+	
+}
+.b_cont button{
+    margin-top: 15px;
+    width: 40%;
+    height: 30px;
+    background-color: #B12C44;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 1px;
+    pointer: curso;
+}
+/*banner end*/
